@@ -1,22 +1,22 @@
 {
-  "name": "test-drag-drop",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "start": "parcel index.html",
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "applit": "0.0.5",
-    "lit-html": "^0.10.2",
-    "lodash": "^4.17.10"
-  },
-  "devDependencies": {
-    "@types/lodash": "^4.14.111",
-    "parcel-bundler": "^1.9.4"
-  }
+	"name": "test-drag-drop",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"start": "parcel index.html",
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"applit": "0.0.5",
+		"lit-html": "^0.10.2",
+		"lodash": "^4.17.10"
+	},
+	"devDependencies": {
+		"@types/lodash": "^4.14.111",
+		"parcel-bundler": "^1.9.4"
+	}
 }

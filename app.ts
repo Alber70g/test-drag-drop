@@ -101,8 +101,8 @@ const table = (bind, state) => html`<table>
 				(slot, idx) =>
 					html`
       <tr>
-        <td draggable="true" 
-          ondragstart=${bind(onDragstart)} 
+        <td draggable="true"
+          ondragstart=${bind(onDragstart)}
           ondragenter=${bind(onDragover)}
           ondragover=${bind(onDragover)}
 					ondrop=${bind(onDrop)}
